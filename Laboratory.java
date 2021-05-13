@@ -24,4 +24,5 @@ public class Laboratory
         // escreva seu código aqui
         return x + y;
     }
+//teste trabalho1
 }
